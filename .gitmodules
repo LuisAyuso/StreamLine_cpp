@@ -1,0 +1,8 @@
+[submodule "third-party/glbinding"]
+	path = third-party/glbinding
+	url = https://github.com/cginternals/glbinding
+	branch = master
+[submodule "third-party/nodeeditor"]
+	path = third-party/nodeeditor
+	url = https://github.com/paceholder/nodeeditor
+	branch = master
