@@ -6,3 +6,6 @@
 	path = third-party/nodeeditor
 	url = https://github.com/paceholder/nodeeditor
 	branch = master
+[submodule "third-party/kate"]
+	path = third-party/kate
+	url = git://anongit.kde.org/kate.git
